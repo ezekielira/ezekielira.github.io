@@ -1,0 +1,12 @@
+---
+layout: project
+type: project
+image: 
+title: "Rock-Paper-Scissors Simulator"
+date: 2023
+published: true
+labels:
+  - Java
+  - Simulator
+summary: "A simple Rock Paper Scissors game simulator which implements the use of Java Graphics"
+---
