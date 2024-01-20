@@ -5,8 +5,7 @@ title: "A Pleasant Experience"
 date: 2024-01-17
 published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Javascript
 ---
 
 Javascript: A Pleasant Experience
