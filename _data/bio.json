@@ -1,32 +1,30 @@
 {
-    "basics": {
-        "name": "Ezekiel Ira Nunez",
-        "label": "Student",
-        "picture": "",
-        "email": "einunez@hawaii.edu",
-        "phone": "925-997-2350",
-        "website": "https://ezekielira.github.io/",
-        "location": {
-            "address": "",
-            "postalCode": "96786",
-            "city": "Wahiawa",
-            "countryCode": "USA",
-            "region": "Hawaii"
-        },
+  "basics": {
+    "name": "Ezekiel Ira Nunez",
+    "label": "Student",
+    "picture": "",
+    "email": "einunez@hawaii.edu",
+    "phone": "925-997-2350",
+    "website": "https://ezekielira.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences with a focus in Data Science at the University of Hawaii. I expect to graduate in Spring, 2026.",
+    "location": { "address": "", "postalCode": "96786", "city": "Wahiawa", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "ezekielira", "url": "https://github.com/ezekielira" },
+      { "network": "linkedin", "username": "Ezekiel Ira Nunez", "url": "https://www.linkedin.com/in/ezekiel-ira-nunez-a25244287" }
+    ]
+  },
         "interests": [
-            {
-                "name": "Data Science"
-            },
-            {
-                "name": "Cyber Security"
-            },
-            {
-                "name": "Language Learning"
-            },
-            {
-                "name": "Bouldering"
-            }
+            {"name": "Data Science"},
+            {"name": "Cyber Security"},
+            {"name": "Language Learning"},
+            {"name": "Bouldering"}
         ],
+          "skills": [
+            {
+              "name": "Languages and Frameworks",
+              "keywords": [ "C", "C++", "Java", "Javascript" ]
+            }
+          ],
         "education": [
             {
                 "institution": "University of Hawaii, Honolulu, HI",
@@ -45,4 +43,3 @@
             }
         ]
     }
-}
