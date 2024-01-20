@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![1-cant-we-all-just-get-along-rock-paper-scissors-gifts-kanig-designs](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/452b3a5c-1761-4a28-9c9b-cefc3d58cacd)
+image: img/rps-background.jpg
 title: "Rock-Paper-Scissors Simulator"
 date: 2023
 published: true
