@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/beginningcut.png
 title: "Survival Game"
-date: 2023
+date: 2016
 published: true
 labels:
   - Snap!
