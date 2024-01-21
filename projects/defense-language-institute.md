@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/dli.avif
 title: "Defense Language Institute"
 date: 2019-2022
 published: true
