@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: ![beginningcut](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/c8eb0073-965b-4e68-805d-d8b1acd1d875)
 title: "Survival Game"
 date: 2023
 published: true
