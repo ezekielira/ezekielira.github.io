@@ -11,7 +11,7 @@ labels:
   - Programming
 ---
 
-# The Biggest Motivator
+# It's Always Been Money
 When I was a fifth grader, I remember seeing my classmates show-off the new Ipads and Iphones that their parents had bought them. Being the kid that I was, I mistakenly asked my parents if I could have an Ipad too. Being a first generation immigrant living in a multi-generational household with five kids and 2 grandparents, the answer pretty much shaped the way I thought about the world at the ripe age of 12. 
 
 *“What do you mean you want an Ipad? Do you know how expensive those are? We have no money to afford that and it’s none of your business to compare our living standards with other families. You should just be grateful that we even have the opportunity to come to America in the first place. We work hard everyday for you to study, succeed, get scholarships, and go to college.”*
