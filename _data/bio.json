@@ -64,14 +64,6 @@
     ],
     "work": [
         {
-            "company": "Sharetea",
-            "position": "Shift Leader",
-            "website": "",
-            "startDate": "2015-06-01",
-            "endDate": "2020-06-09",
-            "summary": "Tasked with managing day-to-day operations of storefront, keeping inventory, and responding to customer demands in a timely manner."
-        },
-        {
             "company": "United States Air Force",
             "position": "Intelligence Analyst",
             "website": "",
@@ -82,6 +74,14 @@
                 "Processed data to be reviewed by policy makers",
                 "Graduated top of class from world-renowned language school."
             ]
+        },
+        {
+            "company": "Sharetea",
+            "position": "Shift Leader",
+            "website": "",
+            "startDate": "2015-06-01",
+            "endDate": "2020-06-09",
+            "summary": "Tasked with managing day-to-day operations of storefront, keeping inventory, and responding to customer demands in a timely manner."
         }
     ],
     "references": [
