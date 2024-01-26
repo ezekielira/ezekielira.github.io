@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Why Use Many Word When Little Word do Trick"
+title: "Why Use Many Word"
 date: 2024-01-25
 published: true
 labels:
@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-# Why Use Many Word When Little Word do Trick?
+# When Little Word do Trick?
 One of the most important things in pretty much all aspects of life is effective communication. In the programming world, I’d wager that most people would probably prefer straight-to-the point and clear communication. Being able to communicate in a standardized way so as to be understood is nothing new. It’s the same as all languages in the world. Taking Spanish words and saying it in English grammar will definitely raise eye-brows. Therefore, we must learn these standards for ourselves when integrating ourselves into this culture.
 
 ## Fluent Question-Askers
