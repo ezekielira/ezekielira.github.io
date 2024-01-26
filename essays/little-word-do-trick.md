@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Why Use Many Word When Little Word do Trick"
-date: 2024-01-17
+date: 2024-01-25
 published: true
 labels:
   - Questions
