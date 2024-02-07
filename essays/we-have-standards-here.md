@@ -5,7 +5,7 @@ title: "We Have Standards Here"
 date: 2024-02-07
 published: true
 labels:
-  - Questions
+  - Programming
   - Learning
   - Basic Human Hygiene
 ---
