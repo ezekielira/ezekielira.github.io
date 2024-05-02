@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Use the Tool to Learn the Tool"
+date: 2024-05-01
+published: true
+labels:
+  - Artificial Intelligence
+  - Education
+  - Software Engineering
+---
+
 ### I. Introduction
 The rise and development of AI has taken the world by storm with concerns of plagiarism and academic dishonesty worries on the rise. Although most news articles and some educators will be worried about how AI can be exploited to create essays with very little effort, AI can also take on a positive role in education. In regards to Software Engineering specifically, AI can have a wide variety of applications in which it can assist and educate a student studying that field. For example, ChatGPT can take in big blocks of code and produce a simple summary of the structure and application of that code. The student can then ask further questions as to what specific pieces of code do for the overall program. This is just one of the many examples that AI can be utilized to further a motivated student’s study tactics.  
 
