@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/logo.jpg
+image: img/logo.png
 title: "Foodie Finders"
 date: 2024
 published: true
@@ -26,7 +26,7 @@ If a new restaurant pops up near the campus area, they can sign up and make a ve
 
  Aside from the "Our Vendors" page, I also had a hand in designing the "About Us" page. Drawing inspiration from many different websites, I realized that many of them utilize a lot of space with words that pop up and pictures that capture attention. With each of the key functionalities of the website, I tried to pair it with a relevant image which would make it stand out more, as opposed to just a block of text.
  
-![default](img/logo.jpg)
+![default](img/logo.png)
 ![won](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/75f8e02a-67e7-47ea-adbb-40a6c6a56fef)
 ![lost](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/9c662f12-ac48-4a0f-a2a6-79bc1268a0f4)
 ![tie](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/91500e6b-aaa6-4014-948f-456488f7fb1b)
