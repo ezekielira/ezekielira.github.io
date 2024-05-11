@@ -29,8 +29,7 @@ Aside from the "Our Vendors" page, I also had a hand in designing the "About Us"
 <p align="center">
     <img width="700px" src="../img/logo.png" class="img-thumbnail">
 </p>
-![won](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/75f8e02a-67e7-47ea-adbb-40a6c6a56fef)
-![lost](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/9c662f12-ac48-4a0f-a2a6-79bc1268a0f4)
-![tie](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/91500e6b-aaa6-4014-948f-456488f7fb1b)
 
-As you can see, it’s pretty comprehensive in all the data being inputted and outputted. The only thing that it doesn’t show to the player is the metadata surrounding the player/cpu choice given a specific turn. However this was actually written into a file if the player is curious to see it.
+## Lessons Learned
+
+By undertaking this project, one of the most important things that I learned was how important effective communication was. One instance of this was an incident in which another project member's work completely intersected with mine, which resulted in a lot of time trying to figure out how to merge those two pages together. Another thing was the reinforcement of what I learned. An exmaple of this was making the filters and the sort functionality come to life within the page. This is something that is ubiquitous in websites, but trying to implement it myself was a challenge in itself. Being able to struggle through that one time will serve as a solid foundation in my software developing career.
