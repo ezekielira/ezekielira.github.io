@@ -26,7 +26,9 @@ My main focus in this project was building the page which is essentially an inde
 
 Aside from the "Our Vendors" page, I also had a hand in designing the "About Us" page. Drawing inspiration from many different websites, I realized that many of them utilize a lot of space with words that pop up and pictures that capture attention. With each of the key functionalities of the website, I tried to pair it with a relevant image which would make it stand out more, as opposed to just a block of text.
  
-img: img/logo.png)
+<p align="center">
+    <img width="700px" src="../img/logo.png" class="img-thumbnail">
+</p>
 ![won](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/75f8e02a-67e7-47ea-adbb-40a6c6a56fef)
 ![lost](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/9c662f12-ac48-4a0f-a2a6-79bc1268a0f4)
 ![tie](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/91500e6b-aaa6-4014-948f-456488f7fb1b)
