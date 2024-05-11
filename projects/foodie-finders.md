@@ -19,14 +19,14 @@ If a new restaurant pops up near the campus area, they can sign up and make a ve
 
  The layout of my game window is pretty simple when it is run, but the thing I was most proud of was how I basically made it into dark mode. Graphic design is actually NOT my passion so being able to make something that doesn’t look like it comes from a website designed before 2000 was great. Here is the game window:
 
- ## My Role
- Foodie Finders was a group project for my software engineering class, combining the efforts of 5 people (including me). Each member was assigned or volunteered to undertake a specific part of the website, which includes certain pages or the testing portion.
+## My Role
+Foodie Finders was a group project for my software engineering class, combining the efforts of 5 people (including me). Each member was assigned or volunteered to undertake a specific part of the website, which includes certain pages or the testing portion.
 
- My main focus in this project was building the page which is essentially an index of all the restaurants. I split up the page into two different columns, the filters and sorting on the left, and the restaurant "cards" on the middle. For convenience I designed the filter column to be sticky and follow the user as they mindlessly scroll through a seemingly endless amount of options. By the time the user hits the bottom, they snap back to reality and is faced with a big button that will take them to a random restaurant page, since they clearly don't know what to eat. 
+My main focus in this project was building the page which is essentially an index of all the restaurants. I split up the page into two different columns, the filters and sorting on the left, and the restaurant "cards" on the middle. For convenience I designed the filter column to be sticky and follow the user as they mindlessly scroll through a seemingly endless amount of options. By the time the user hits the bottom, they snap back to reality and is faced with a big button that will take them to a random restaurant page, since they clearly don't know what to eat. 
 
- Aside from the "Our Vendors" page, I also had a hand in designing the "About Us" page. Drawing inspiration from many different websites, I realized that many of them utilize a lot of space with words that pop up and pictures that capture attention. With each of the key functionalities of the website, I tried to pair it with a relevant image which would make it stand out more, as opposed to just a block of text.
+Aside from the "Our Vendors" page, I also had a hand in designing the "About Us" page. Drawing inspiration from many different websites, I realized that many of them utilize a lot of space with words that pop up and pictures that capture attention. With each of the key functionalities of the website, I tried to pair it with a relevant image which would make it stand out more, as opposed to just a block of text.
  
-![default](img/logo.png)
+img: img/logo.png)
 ![won](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/75f8e02a-67e7-47ea-adbb-40a6c6a56fef)
 ![lost](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/9c662f12-ac48-4a0f-a2a6-79bc1268a0f4)
 ![tie](https://github.com/ezekielira/ezekielira.github.io/assets/156398987/91500e6b-aaa6-4014-948f-456488f7fb1b)
