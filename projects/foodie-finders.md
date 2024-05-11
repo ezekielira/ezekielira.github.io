@@ -23,8 +23,8 @@ If a new restaurant pops up near the campus area, they can sign up and make a ve
 Foodie Finders was a group project for my software engineering class, combining the efforts of 5 people (including me). Each member was assigned or volunteered to undertake a specific part of the website, which includes certain pages or the testing portion.
 
 <p align="center">
-  <img width="350px" src="../img/filters" class="img-thumbnail">
-  <img width="350px" src="../img/send-it" class="img-thumbnail">
+  <img width="350px" src="../img/filters.png" class="img-thumbnail">
+  <img width="350px" src="../img/send-it.png" class="img-thumbnail">
 </p>
 
 My main focus in this project was building the page which is essentially an index of all the restaurants. I split up the page into two different columns, the filters and sorting on the left, and the restaurant "cards" on the middle. For convenience I designed the filter column to be sticky and follow the user as they mindlessly scroll through a seemingly endless amount of options. By the time the user hits the bottom, they snap back to reality and is faced with a big button that will take them to a random restaurant page, since they clearly don't know what to eat. 
@@ -32,7 +32,7 @@ My main focus in this project was building the page which is essentially an inde
 Aside from the "Our Vendors" page, I also had a hand in designing the "About Us" page. Drawing inspiration from many different websites, I realized that many of them utilize a lot of space with words that pop up and pictures that capture attention. With each of the key functionalities of the website, I tried to pair it with a relevant image which would make it stand out more, as opposed to just a block of text.
  
 <p align="center">
-    <img width="700px" src="../img/about-us" class="img-thumbnail">
+    <img width="700px" src="../img/about-us.png" class="img-thumbnail">
 </p>
 
 ## Lessons Learned
