@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/rps-background.jpg
 title: "Foodie Finders"
-date: 2023
+date: 2024
 published: true
 labels:
   - Javascript
